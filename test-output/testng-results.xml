@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo" duration-ms="11895" started-at="2020-05-13T09:29:26 CDT" finished-at="2020-05-13T09:29:38 CDT">
+    <groups>
+    </groups>
+    <test name="Demo" duration-ms="11895" started-at="2020-05-13T09:29:26 CDT" finished-at="2020-05-13T09:29:38 CDT">
+      <class name="demo.Demo1">
+        <test-method status="PASS" signature="titletest()[pri:0, instance:demo.Demo1@7a1ebcd8]" name="titletest" duration-ms="5550" started-at="2020-05-13T09:29:26 CDT" finished-at="2020-05-13T09:29:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+      </class> <!-- demo.Demo1 -->
+      <class name="demo.Demo2">
+        <test-method status="PASS" signature="titletest()[pri:0, instance:demo.Demo2@5faeada1]" name="titletest" duration-ms="6293" started-at="2020-05-13T09:29:31 CDT" finished-at="2020-05-13T09:29:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+      </class> <!-- demo.Demo2 -->
+    </test> <!-- Demo -->
+  </suite> <!-- Demo -->
+</testng-results>
